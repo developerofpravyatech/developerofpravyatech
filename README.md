@@ -45,7 +45,7 @@
   "founded": 2021,
   "hq": "Rajkot, Gujarat, India",
   "team_size": "11-50",
-  "status": "actively_shipping",
+  "status": "actively_coding",
   "projects_delivered": 60,
   "mission": "Engineering Digital Excellence.",
   "vision": "Transforming Ideas into Scalable Digital Products."
@@ -113,7 +113,7 @@ $ echo $BUILD_PHILOSOPHY
 | PROJECTS_SHIPPED | TEAM_SIZE | UPTIME |
 |:---:|:---:|:---:|
 | **60+** | **11-50** | **99.9%** |
-| Across 4 continents | Engineers & designers | Production reliability |
+| Global deployments | Engineers & designers | Production reliability |
 
 </div>
 
