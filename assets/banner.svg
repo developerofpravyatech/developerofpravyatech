@@ -1,0 +1,45 @@
+<svg width="1600" height="480" viewBox="0 0 1600 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1480" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111F"/>
+      <stop offset="1" stop-color="#101C3B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="160" y1="80" x2="1440" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="220" y1="120" x2="1380" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1729" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#111B35" stop-opacity="0.88"/>
+    </linearGradient>
+    <filter id="glow" x="-100" y="-100" width="1800" height="680" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#3B82F6" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="480" rx="32" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1552" height="432" rx="30" fill="url(#panel)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="40" y="40" width="1520" height="400" rx="24" fill="url(#grid)" opacity="0.2"/>
+  <circle cx="1288" cy="130" r="92" fill="#00E5FF" fill-opacity="0.08"/>
+  <circle cx="312" cy="366" r="118" fill="#8B5CF6" fill-opacity="0.1"/>
+  <path d="M1120 110C1200 132 1280 136 1360 120" stroke="#00E5FF" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="6 8"/>
+  <rect x="150" y="108" width="1300" height="264" rx="24" fill="#050B16" fill-opacity="0.4" stroke="#7DD3FC" stroke-opacity="0.2"/>
+  <rect x="212" y="156" width="1176" height="168" rx="16" fill="#060D1A" stroke="#4ADE80" stroke-opacity="0.25"/>
+  <g filter="url(#glow)">
+    <rect x="244" y="188" width="1112" height="104" rx="16" stroke="url(#edge)" stroke-width="2"/>
+  </g>
+  <image href="logo.png" x="170" y="124" width="160" height="160" preserveAspectRatio="xMidYMid meet"/>
+  <text x="380" y="214" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="8">PRAVYA TECH</text>
+  <text x="380" y="258" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Premium Engineering • Cloud • AI • Product Platforms</text>
+  <text x="380" y="292" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Designing resilient digital systems with clarity, speed, and long-term thinking.</text>
+  <rect x="380" y="316" width="208" height="4" rx="2" fill="#00E5FF"/>
+  <rect x="600" y="316" width="112" height="4" rx="2" fill="#4ADE80"/>
+  <rect x="724" y="316" width="84" height="4" rx="2" fill="#8B5CF6"/>
+</svg>

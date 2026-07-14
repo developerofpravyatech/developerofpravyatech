@@ -1,0 +1,17 @@
+<svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="360" fill="#030712"/>
+  <rect width="900" height="360" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#38BDF8" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 160C110 132 170 132 300 164C430 196 520 220 640 208C760 196 830 150 900 132" stroke="url(#line)" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0 20; 20 0; 0 20" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>

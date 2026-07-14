@@ -1,0 +1,25 @@
+<svg width="1600" height="480" viewBox="0 0 1600 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lightbg" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <pattern id="grid3" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" stroke="#0EA5E9" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="480" rx="28" fill="url(#lightbg)"/>
+  <rect x="26" y="26" width="1548" height="428" rx="26" fill="url(#grid3)" opacity="0.6"/>
+  <rect x="56" y="56" width="1488" height="368" rx="24" fill="#FFFFFF" stroke="url(#accent2)" stroke-width="2"/>
+  <circle cx="1320" cy="150" r="120" fill="#0EA5E9" fill-opacity="0.08"/>
+  <circle cx="300" cy="360" r="140" fill="#7C3AED" fill-opacity="0.08"/>
+  <image href="logo.png" x="168" y="126" width="174" height="174"/>
+  <text x="392" y="220" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="7">PRAVYA TECH</text>
+  <text x="392" y="266" fill="#0369A1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Built for ambitious digital products</text>
+  <text x="392" y="302" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="18">Reliable delivery • thoughtful product design • efficient modern engineering</text>
+</svg>
