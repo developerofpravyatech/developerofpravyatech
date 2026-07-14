@@ -45,7 +45,7 @@
   "hq": "Rajkot, Gujarat, India",
   "team_size": "11-50",
   "status": "actively_coding",
-  "projects_delivered": 60+,
+  "projects_delivered": "60+",
   "mission": "Engineering Digital Excellence.",
   "vision": "Transforming Ideas into Scalable Digital Products."
 }
@@ -172,7 +172,6 @@ pravya@build-server:~$ cat contact_info.json
 
 <div align="center">
 
-<!-- ANIMATED CONTACT INFO -->
 <!-- ANIMATED CONTACT INFO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&width=850&lines=📍+HQ:+618+-+Level+6%2C+150+Feet+Ring+Rd%2C+near+AP+park%2C+Rajkot%2C+Gujarat+360005;📍+Branch+2:+304+Nakshatra+6%2C+Gondal+Road%2C+opp.+Pinevinta+Hotel%2C+Rajkot+360002;📍+USA:+143+Kerry+cmn%2C+Fremont%2C+CA%2C+U.S.A.;📞+IND:+%2B91+918140792793;📞+USA:+%2B1+(408)+507-6353;✉️+Email:+talk@pravyatech.com" alt="Contact Typing SVG" />
 <br/>
