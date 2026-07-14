@@ -31,8 +31,7 @@
 <!-- MARQUEE -->
 <div align="center">
 
-<!-- [![Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=8000&pause=500&color=94A3B8&center=true&vCenter=true&width=900&lines=🟢+SYSTEM+STATUS%3A+OPERATIONAL+++%7C+++%F0%9F%93%8D+RAJKOT%2C+GUJARAT%2C+INDIA+++%7C+++%F0%9F%93%A6+60%2B+PROJECTS+DELIVERED+++%7C+++%F0%9F%91%A5+11--50+ENGINEERS+++%7C+++%F0%9F%9A%80+ACTIVELY+HIRING+++%7C+++%E2%9A%A1+SHIPPING+SINCE+2021)](https://www.pravyatech.com/) -->
-[![Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=8000&pause=500&color=94A3B8&center=true&vCenter=true&width=900&lines=🟢+STATUS%3A+OPERATIONAL+++%7C+++%F0%9F%93%8D+RAJKOT%2C+INDIA+++%7C+++%F0%9F%93%A6+60%2B+SHIPPED+++%7C+++%F0%9F%91%A5+11--50+ENGINEERS)](https://www.pravyatech.com/)
+[![Marquee](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=8000&pause=500&color=94A3B8&center=true&vCenter=true&width=900&lines=🟢+STATUS%3A+OPERATIONAL+++%7C+++%F0%9F%93%8D+RAJKOT%2C+INDIA+++%7C+++%F0%9F%93%A6+60%2B+BUILDS+++%7C+++%F0%9F%91%A5+11--50+ENGINEERS)](https://www.pravyatech.com/)
 </div>
 
 ---
@@ -46,7 +45,7 @@
   "hq": "Rajkot, Gujarat, India",
   "team_size": "11-50",
   "status": "actively_coding",
-  "projects_delivered": 60,
+  "projects_delivered": 60+,
   "mission": "Engineering Digital Excellence.",
   "vision": "Transforming Ideas into Scalable Digital Products."
 }
@@ -98,10 +97,10 @@ $ echo $BUILD_PHILOSOPHY
 **`[2021]`** `INIT` — Company founded. First client onboarded.  
 > Started as a small engineering team in Rajkot solving real production problems for growth-stage companies.
 
-**`[2022-2024]`** `SCALE` — 60+ projects shipped across web, mobile, ERP, CRM  
+**`[2022-2024]`** `SCALE` — 60+ projects builds across web, mobile, ERP, CRM  
 > Grew into a full-spectrum digital product studio without losing the engineering-first culture.
 
-**`[NOW]`** `RUNNING` 🟢 — Actively building. Actively hiring. Actively shipping.  
+**`[NOW]`** `RUNNING` 🟢 — Actively building. Actively hiring. 
 > Currently deploying enterprise software, AI integrations, and cloud infrastructure for clients across industries.
 
 ---
@@ -110,7 +109,7 @@ $ echo $BUILD_PHILOSOPHY
 
 <div align="center">
 
-| PROJECTS_SHIPPED | TEAM_SIZE | UPTIME |
+| PROJECTS_BUILDS' | TEAM_SIZE | UPTIME |
 |:---:|:---:|:---:|
 | **60+** | **11-50** | **99.9%** |
 | Global deployments | Engineers & designers | Production reliability |
