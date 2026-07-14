@@ -14,7 +14,7 @@
 <h3><code>Intelligence You Need.</code></h3>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&width=500&lines=We+ship+reliable%2C+observable%2C+secure+code;60%2B+projects+across+4+continents;Engineering+Digital+Excellence;Transforming+Ideas+into+Scalable+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&width=500&lines=We+ship+reliable%2C+observable%2C+secure+code;Engineering+Digital+Excellence;Transforming+Ideas+into+Scalable+Products" alt="Typing SVG" />
 
 <br/><br/>
 
