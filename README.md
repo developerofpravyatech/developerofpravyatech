@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- BADGE STRIP -->
-<img src="https://img.shields.io/badge/⚡_STATUS-SHIPPING-C41E3A?style=for-the-badge&labelColor=0D1117&color=C41E3A"/>
+<img src="https://img.shields.io/badge/⚡_STATUS-CODING-C41E3A?style=for-the-badge&labelColor=0D1117&color=C41E3A"/>
 <img src="https://img.shields.io/badge/🔒_ENTERPRISE-READY-1E3A8A?style=for-the-badge&labelColor=0D1117&color=1E3A8A"/>
 <img src="https://img.shields.io/badge/🤖_AI-FIRST-1E3A8A?style=for-the-badge&labelColor=0D1117&color=1E3A8A"/>
 <img src="https://img.shields.io/badge/☁️_CLOUD--NATIVE-C41E3A?style=for-the-badge&labelColor=0D1117&color=C41E3A"/>
