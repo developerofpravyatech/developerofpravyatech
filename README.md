@@ -174,12 +174,12 @@ pravya@build-server:~$ cat contact_info.json
 <div align="center">
 
 <!-- ANIMATED CONTACT INFO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&width=750&lines=📍+HQ:+150+Feet+Ring+Rd,+Rajkot,+Gujarat;📍+Branch:+Gondal+Road,+Rajkot,+Gujarat;📍+USA:+Fremont,+California;📞+IND:+%2B91+89800+00196;📞+USA:+%2B1+(408)+507-6353;✉️+Email:+talk@pravyatech.com" alt="Contact Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&width=750&lines=📍+HQ:+150+Feet+Ring+Rd,+Rajkot,+Gujarat;📍+Branch:+Gondal+Road,+Rajkot,+Gujarat;📍+USA:+Fremont,+California;📞+IND:+%2B91++9181407+92793;📞+USA:+%2B1+(408)+507-6353;✉️+Email:+talk@pravyatech.com" alt="Contact Typing SVG" />
 
 <br/>
 
 [![Email](https://img.shields.io/badge/✉️_talk@pravyatech.com-0D1117?style=for-the-badge&labelColor=1E3A8A&color=0D1117)](mailto:talk@pravyatech.com)
-[![WhatsApp IND](https://img.shields.io/badge/WhatsApp_IND-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+918980000196&text=Hello)
+[![WhatsApp IND](https://img.shields.io/badge/WhatsApp_IND-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+918140792793&text=Hello)
 </div>
 
 ```bash
